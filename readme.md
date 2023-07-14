@@ -1,4 +1,4 @@
-## This ia a preview of CNN page 
+## This is a preview of CNN page 
 
 ```
  IN which i designed a CNN page using Bootstrap
