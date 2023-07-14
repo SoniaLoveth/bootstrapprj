@@ -225,6 +225,9 @@ padding: 2px 9px 2px 7px;
 .nine{
   margin-left: 600px;
 }
+#borderradius{
+  border-radius: 10px;
+}
 
 
 
